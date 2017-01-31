@@ -1,7 +1,10 @@
+body {
+text-align:center;
+}
 p {
-align:left;
+text-align: left;
 width:250px;
 }
-body{
-text-align: center;
+h1{
+color: red;
 }
